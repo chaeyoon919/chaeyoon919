@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://hing9u.tistory.com/78
+https://heo-seongil.tistory.com/131
 -->
 
 [![Chaeyoon's github stats](https://github-readme-stats.vercel.app/api?username=chaeyoon919)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaeyoon919&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/chaeyoon919)
+
