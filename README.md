@@ -22,8 +22,6 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
 
-  
-  [![Chaeyoon's github stats](https://github-readme-stats.vercel.app/api?username=chaeyoon919)](https://github.com/anuraghazra/github-readme-stats)
 
   ### contact
   <a href="dbs8438@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -53,4 +51,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 https://simpleicons.org/ : 배지
 https://security-nanglam.tistory.com/491 : 이모지
+
+[![Chaeyoon's github stats](https://github-readme-stats.vercel.app/api?username=chaeyoon919)](https://github.com/anuraghazra/github-readme-stats)
+
+
 -->
