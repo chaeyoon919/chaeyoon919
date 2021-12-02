@@ -4,14 +4,16 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=class%20yoon:&fontSize=90)
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaeyoon919&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/chaeyoon919)
-  #### Hi there  
-  #### I'm Chaeyoon Lee, a growing data scientist.🌱
+  #### Hi there<br> I'm Chaeyoon Lee, a growing data scientist.🌱
+  <br>
+  
   ***
   
+  <br>
 
   
   ### 💻 Technology Stack 💻
-  ##### Techs that I've used to least once
+  ###### Techs that I've used to least once
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/> 
@@ -22,9 +24,9 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>  
 
 
+  <br><br>
   
-  
-  ### contact
+  ### ✉️ contact
   <a href="dbs8438@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </div>
