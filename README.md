@@ -27,7 +27,7 @@
   <br><br>
   
   ### ✉️ contact
-  <a href="dbs8438@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbs8438@gmail.com)](mailto:dbs8438@gmail.com)
 
 </div>
 
