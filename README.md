@@ -22,9 +22,9 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Pytorch-#EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytorch Lightning-#792EE5?style=flat-square&logo=Pytorch Lightning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Weight&Biases-#FFBE00?style=flat-square&logo=Weight&Biases&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch Lightning-792EE5?style=flat-square&logo=Pytorch Lightning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weight&Biases-FFBE00?style=flat-square&logo=Weight&Biases&logoColor=white"/>
 
   
   <br><br>
